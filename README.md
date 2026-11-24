@@ -58,4 +58,5 @@ After capturing, add the images here with Markdown, for example:
 
 Add the repository URL here after creating the GitHub repository:
 
-`Repository URL: Add your GitHub repository link`
+`Repository URL: https://github.com/antrachopra/antra-chopra-developer-portfolio`
+
